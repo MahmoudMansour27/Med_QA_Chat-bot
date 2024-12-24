@@ -36,4 +36,4 @@ By leveraging medical-specific datasets and advanced NLP models, the chatbot bri
 
 
 
-<img title="" src="file:///home/mahmoud/Documents/Programming/projects/python/Med_QA_Chat-bot/Imgs/chatSample.gif" alt="" width="703" data-align="inline">
+<img title="" src="./Imgs/chatSample.gif" alt="" width="703" data-align="inline">
